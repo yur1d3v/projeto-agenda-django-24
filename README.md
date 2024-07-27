@@ -38,7 +38,7 @@ Este projeto é uma aplicação web de agenda desenvolvida utilizando Django. Fo
 
 <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django Logo" width="50">
 <p>
-    <img src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" alt="Python Logo" width="30">
+    <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
     <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML Logo" width="30">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS Logo" width="30">
 </p>
