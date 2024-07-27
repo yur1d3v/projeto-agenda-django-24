@@ -1,7 +1,6 @@
 # Projeto Agenda Django
 
-Este projeto é uma aplicação web de agenda desenvolvida utilizando Django. 
-Foi realizado como parte de um curso na Udemy, embora o curso não tenha sido finalizado. O projeto está completo e a maior parte do trabalho foi feita em Python, com pouca modificação nos arquivos HTML e CSS.
+Este projeto é uma aplicação web de agenda desenvolvida utilizando Django. Foi realizado como parte de um curso na Udemy, embora o curso não tenha sido finalizado. O projeto está completo e a maior parte do trabalho foi feita em Python, com pouca modificação nos arquivos HTML e CSS.
 
 ## Funcionalidades
 
@@ -35,11 +34,14 @@ Foi realizado como parte de um curso na Udemy, embora o curso não tenha sido fi
     python manage.py runserver
     ```
 
-## Linguagens Usadas
+## Linguagens e Ferramentas Usadas
 
-<img src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" alt="Python Logo" width="30">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML Logo" width="30">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS Logo" width="30">
+<p>
+    <img src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" alt="Python Logo" width="30">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="Django Logo" width="50">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML Logo" width="30">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS Logo" width="30">
+</p>
 
 ## Créditos
 
